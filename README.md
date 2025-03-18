@@ -6,7 +6,7 @@
 ###  <div align="center"> 🌐 Socials:  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/paingsoethu.se/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paing-soe-thu-9431b5269/) [![Gmail](https://img.shields.io/badge/Gmail-paingsoethu960613%40gmail.com-blue)](mailto:paingsoethu960613@gmail.com)  ![Profile views](https://komarev.com/ghpvc/?username=paingsoethu-coding&label=Profile%20views&color=0e75b6&style=flat)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paingsoethu-coding) </div> 
 <!-- <img src="https://github.com/paingsoethu-coding/paingsoethu-coding/blob/main/gandalf_parrot.gif" width="45" /> -->
 
-### <img src="https://github.com/paingsoethu-coding/paingsoethu-coding/blob/main/Developer.gif" width="45" /> About me  
+### <img src="https://github.com/paingsoethu-coding/paingsoethu-coding/blob/main/Assests/Developer.gif" width="45" /> About me  
 
 > 🏦 I was a Software Engineer based in Yangon, Myanmar, with experience coding in a team on multiple projects at ACE Data Systems.
 
