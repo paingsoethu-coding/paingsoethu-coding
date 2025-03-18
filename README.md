@@ -1,13 +1,13 @@
-<h1 align="center">Hi Guys!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I am Paing Soe Thu! </h1>
+<h1 align="center">Hi Guys!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I am Paing Soe Thu! </h1> 
 <h3 align="center">Freelancer by day, nap enthusiast by night.</h3>
 <h3 align="center"⚡Building a better future.⚡ </h3>
 <h3 align="center">🔥 C# coder.🔥<0 = (10 + 5) = 15>🔥 ASP.NET Core / Blazor 🔥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paingsoethu-coding&label=Profile%20views&color=0e75b6&style=flat" alt="paingsoethu-coding" /> </p>
+###  <div align="center"> 🌐 Socials:  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/paingsoethu.se/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paing-soe-thu-9431b5269/) [![Gmail](https://img.shields.io/badge/Gmail-paingsoethu960613%40gmail.com-blue)](mailto:paingsoethu960613@gmail.com)  ![Profile views](https://komarev.com/ghpvc/?username=paingsoethu-coding&label=Profile%20views&color=0e75b6&style=flat)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paingsoethu-coding) </div> 
+<!-- <img src="https://github.com/paingsoethu-coding/paingsoethu-coding/blob/main/gandalf_parrot.gif" width="45" /> -->
 
+### <img src="https://github.com/paingsoethu-coding/paingsoethu-coding/blob/main/Developer.gif" width="45" /> About me  
 
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me 
 > 🏦 I was a Software Engineer based in Yangon, Myanmar, with experience coding in a team on multiple projects at ACE Data Systems.
 
 I am currently working in Bangkok, Thailand, and have previously held roles as <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -24,16 +24,17 @@ I am currently working in Bangkok, Thailand, and have previously held roles as <
 <img  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  alt="csharp logo"  width="50"  height="50"  />   <img  src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  alt="dotnet logo"  width="50"  height="50"  />   <img  src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg"  alt="JavaScript logo"  width="50"  height="50"  />  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> 
 
 --- 
-  
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=paingsoethu-coding&label=Profile%20views&color=0e75b6&style=flat" alt="paingsoethu-coding" /> 
+</p> 
+### 🌐 Socials: 
 ### 🌐 Socials:
 <p align="left">
 <a href="https://dev.to/paingsoethu-coding-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paingsoethu-coding-se" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paing-soe-thu-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paing-soe-thu-se" height="30" width="40" /></a>
 <a href="https://fb.com/paingsoethu.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paingsoethu.se" height="30" width="40" /></a>
 </p>
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-paingsoethu960613%40gmail.com-blue)](mailto:paingsoethu960613@gmail.com)  -->
-
----
+[![Gmail](https://img.shields.io/badge/Gmail-paingsoethu960613%40gmail.com-blue)](mailto:paingsoethu960613@gmail.com)  -->
 
 
 
